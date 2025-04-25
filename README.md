@@ -10,7 +10,7 @@
 
 [EdinLIVE-爱丁堡的雨](https://cynthian-pshds.github.io/mpwx-save/EdinLIVE-爱丁堡的雨.html)
 
-[嬉笑创客-不要轻易说懂王](https://cynthian-pshds.github.io/mpwx-save/嬉笑创客-不要轻易说懂王.html)
+[嬉笑创客-不要轻易说懂王](https://cynthian-pshds.github.io/mpwx-save/嬉笑创客-不要轻易说懂王.html) （原作者发布约五小时后即被平台删除）
 
 [赵世瑜-呈现一个众声喧哗的历史世界](https://cynthian-pshds.github.io/mpwx-save/赵世瑜-呈现一个众声喧哗的历史世界.html)
 
