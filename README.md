@@ -1,8 +1,10 @@
 # mpwx-save
 
-该库用来存放微信公众平台上他人的&thinsp;html&thinsp;或&thinsp;mhtml&thinsp;文件
+该库用来存放微信公众平台上**他人**的&thinsp;html&thinsp;或&thinsp;mhtml&thinsp;文件
 
 **不保证时效性。** 有可能非常久远。
+
+如果你是原作者，希望我删除，可与我联系。
 
 ## 部分链接
 
